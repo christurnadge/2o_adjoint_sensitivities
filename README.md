@@ -1,5 +1,5 @@
 # 04_Second_order_adjoint_sensitivity
-Demonstrations of adjoint state solutions for calculation of second order sensitivities
+Demonstrations of adjoint state solutions for the calculation of second order sensitivities.
   
 Launch interactive versions of the following Jupyter Notebooks using Binder:
 \
